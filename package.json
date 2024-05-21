@@ -1,0 +1,17 @@
+{
+  "name": "bisheditor",
+  "version": "1.0.0",
+  "description": "A text editor/IDe",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.6"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
